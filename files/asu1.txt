@@ -1,0 +1,19 @@
+ASDFGHK[BACKSPACE]JKLL
+[Atas][Atas][Atas][Atas][Atas][Atas][Atas][Bawah]
+[Bawah][Bawah][Bawah]''[End][Atas][Atas]'''''''[Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Atas][Atas]
+[spasi] YAHOO.COM
+
+IVANANDRIANTO48JKT5570
+TIME [BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]T[BACKSPACE][BACKSPACE]CPP GET TIME
+
+STRING STR [spasi][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Atas][Bawah]p[Bawah][Atas]
+AA2[Bawah][Atas]2[Bawah][Atas]
+
+[Bawah][Bawah][Bawah][Atas][Atas][Atas][Atas][Atas][Atas][Bawah][Bawah][Bawah][Bawah][Bawah][Atas] [spasi][Ctrl]¢C¢[Ctrl][Ctrl]¢C¢[Ctrl]CMAILYA[BACKSPACE][BACKSPACE][BACKSPACE]L.YAHOO
+HOUR » STRING [spasi]9ITOA[spasi] 9 [spasi]9NOW½ [spasi].TM [spasi]½HOUR [spasi] [spasi]9[BACKSPACE] [spasi]0¼BUFFER¼10 [spasi]00º
+STRING STRMIN » STRING[spasi] 9IT[Atas][Kiri][Kiri] [spasi][End][Ctrl]¢C[Bawah][BACKSPACE][BACKSPACE][BACKSPACE]¢[Ctrl]V[Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]MIN[End]
+STRING STRSEC » [Atas] [spasi][End]¢[Ctrl]C[Bawah]¢[Ctrl]V[Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri][Kiri]'[Kiri][BACKSPACE][BACKSPACE][BACKSPACE]SEX[BACKSPACE]C[Ctrl]¢S¢[Ctrl]S[Bawah][Bawah][Bawah][Bawah][Bawah][Atas][Atas][Atas][Atas][Atas][Bawah][Bawah][Bawah][Bawah][Bawah][Bawah][Atas][Atas][Atas]
+STR.APPEND [spasi]9½[spasi] 0º
+[Atas][Atas][Bawah][Bawah]STR.APPEND [spasi]9STRHOUORD[BACKSPACE][BACKSPACE][BACKSPACE]R [spasi]0º
+[Atas] [spasi][End][Ctrl]¢C[Bawah][Ctrl]¢V
+¢[Ctrl]V[Atas][Kiri][Kiri][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]MO[BACKSPACE]IN[Bawah]'[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]SEX[BACKSPACE]C¢[Ctrl]S¢[Ctrl]S[Ctrl]¢S
